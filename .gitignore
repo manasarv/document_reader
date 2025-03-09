@@ -1,0 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+budget/
+my_env/
+.env
+*.pyc
+.ipynb_checkpoints/
+test.ipynb
+
+# Ignore Mac system files
+.DS_Store
+
