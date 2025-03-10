@@ -2,8 +2,12 @@ unstructured
 tiktoken
 pinecone
 pypdf
+ipykernel
 openai
 langchain
+langchain-community 
+langchain-openai
+langchain_pinecone 
 pandas 
 numpy
 python-dotenv
